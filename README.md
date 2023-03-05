@@ -10,6 +10,8 @@ Python 3 (and above)
 <h2>Getting Started</h2>
 ```
 $ git clone https://github.com/<your-username>/tictactoe-ai.git
+```
+```
 $ cd tictactoe-ai
 ```
 
