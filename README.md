@@ -11,7 +11,6 @@ Python 3 (and above)
 ```
 $ git clone https://github.com/<your-username>/tictactoe-ai.git
 ```
-```
 $ cd tictactoe-ai
 ```
 
