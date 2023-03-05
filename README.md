@@ -10,6 +10,7 @@ Python 3 (and above)
 <h2>Getting Started</h2>
 
 ```python
-git clone https://github.com/<your-username>/tictactoe-ai.git
+git clone https://github.com/Duks31/tictactoe-ai.git
 
 ```
+
